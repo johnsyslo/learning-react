@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/johnsyslo/learning-react/issues"
   },
-  "homepage": "https://github.com/johnsyslo/learning-react#readme"
+  "homepage": "https://github.com/johnsyslo/learning-react#readme",
+  "dependencies": {
+    "@vercel/postgres": "^0.8.0"
+  }
 }
