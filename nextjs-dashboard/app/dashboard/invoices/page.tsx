@@ -1,3 +1,7 @@
+import NavLinks from "@/app/ui/dashboard/nav-links";
+
 export default function Page() {
-  return <p>Invoices Page</p>;
+  return (
+    <NavLinks />
+  );
 }
